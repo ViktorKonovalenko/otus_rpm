@@ -39,3 +39,6 @@ EOF'
 yum install percona-orchestrator.x86_64 -y
 
 ```
+Проверяем работу nginx<br>
+![image](https://github.com/ViktorKonovalenko/otus_rpm/assets/32430041/37d9b6ca-237c-47dc-8584-9319e241db9f)
+
